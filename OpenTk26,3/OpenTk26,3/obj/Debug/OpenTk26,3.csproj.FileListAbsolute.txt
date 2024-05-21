@@ -1,0 +1,211 @@
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTk26,3.exe.config
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTk26,3.exe
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTk26,3.pdb
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTK.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\Silk.NET.Core.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\Silk.NET.Maths.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\Silk.NET.OpenGL.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\System.Buffers.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\System.Memory.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\System.Text.Json.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\System.ValueTuple.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\Ultz.Bcl.Half.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTK.pdb
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTK.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\Silk.NET.Core.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\Silk.NET.Maths.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\Silk.NET.OpenGL.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\System.Buffers.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\System.Memory.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\System.Text.Json.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\bin\Debug\System.ValueTuple.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.csproj.AssemblyReference.cache
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.csproj.CoreCompileInputs.cache
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.csproj.CopyComplete
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.exe
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.pdb
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTk26,3.exe.config
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTk26,3.exe
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTk26,3.pdb
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTK.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Silk.NET.Core.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Silk.NET.Maths.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Silk.NET.OpenGL.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Buffers.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Memory.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Text.Json.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.ValueTuple.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Ultz.Bcl.Half.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTK.pdb
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTK.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Silk.NET.Core.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Silk.NET.Maths.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Silk.NET.OpenGL.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Buffers.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Memory.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Text.Json.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.ValueTuple.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.csproj.AssemblyReference.cache
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.csproj.CoreCompileInputs.cache
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.csproj.CopyComplete
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.exe
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk5,4\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.pdb
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTk26,3.exe.config
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTk26,3.exe
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTk26,3.pdb
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTK.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Silk.NET.Core.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Silk.NET.Maths.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Silk.NET.OpenGL.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Buffers.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Memory.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Text.Json.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.ValueTuple.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Ultz.Bcl.Half.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTK.pdb
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTK.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Silk.NET.Core.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Silk.NET.Maths.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Silk.NET.OpenGL.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Buffers.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Memory.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Text.Json.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.ValueTuple.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.csproj.AssemblyReference.cache
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.csproj.CoreCompileInputs.cache
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.csproj.CopyComplete
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.exe
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4\OpenTk5,4\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.pdb
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTk26,3.exe.config
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTk26,3.exe
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTk26,3.pdb
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTK.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Silk.NET.Core.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Silk.NET.Maths.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Silk.NET.OpenGL.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Buffers.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Memory.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Text.Json.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.ValueTuple.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Ultz.Bcl.Half.dll
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTK.pdb
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTK.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Silk.NET.Core.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Silk.NET.Maths.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\Silk.NET.OpenGL.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Buffers.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Memory.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Text.Json.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\bin\Debug\System.ValueTuple.xml
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.csproj.AssemblyReference.cache
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.csproj.CoreCompileInputs.cache
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.csproj.CopyComplete
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.exe
+C:\Users\blake\OneDrive\Documents\Visual Studio 2022\homework\OpenTk - 11,4 - ver2\OpenTk5,4\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.pdb
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTk26,3.exe.config
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTk26,3.exe
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTk26,3.pdb
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Bcl.HashCode.dll
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTK.dll
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\Silk.NET.Core.dll
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\Silk.NET.Maths.dll
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\Silk.NET.OpenGL.dll
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\System.Buffers.dll
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\System.Memory.dll
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\System.Numerics.Vectors.dll
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\System.Text.Encodings.Web.dll
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\System.Text.Json.dll
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\System.ValueTuple.dll
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\Ultz.Bcl.Half.dll
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Bcl.HashCode.xml
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTK.pdb
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTK.xml
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\Silk.NET.Core.xml
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\Silk.NET.Maths.xml
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\Silk.NET.OpenGL.xml
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\System.Buffers.xml
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\System.Memory.xml
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\System.Numerics.Vectors.xml
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\System.Text.Encodings.Web.xml
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\System.Text.Json.xml
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\bin\Debug\System.ValueTuple.xml
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.csproj.AssemblyReference.cache
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.csproj.SuggestedBindingRedirects.cache
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.csproj.CoreCompileInputs.cache
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.csproj.CopyComplete
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.exe
+H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.pdb
