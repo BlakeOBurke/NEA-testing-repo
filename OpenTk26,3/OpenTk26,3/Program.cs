@@ -13,7 +13,6 @@ using OpenTK;
 using OpenTK.Graphics;
 using OpenTK.Graphics.OpenGL;
 using OpenTK.Input;
-using Silk.NET.OpenGL;
 
 namespace OpenTk26_3
 {

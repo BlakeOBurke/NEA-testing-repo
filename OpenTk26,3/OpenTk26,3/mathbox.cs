@@ -431,6 +431,7 @@ namespace OpenTk26_3
                 {
                     string[] point = inp[i].Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
                     ver.Add(new MY_vertex(new MY_vector3(float.Parse(point[1]), float.Parse(point[2]), float.Parse(point[3])), Color.FromArgb(50, ((int)col.x + Game.rnd.Next(-50, 50)), ((int)col.y + Game.rnd.Next(-50, 50)), ((int)col.z + Game.rnd.Next(-50, 50)))));
+                    //ver.Add(new MY_vertex(new MY_vector3(float.Parse(point[1]), float.Parse(point[2]), float.Parse(point[3])), Color.FromArgb(50, (int)col.x, (int)col.y, (int)col.z)));
                 }
                 else if (inp[i].Substring(0,2) == "f ")
                 {

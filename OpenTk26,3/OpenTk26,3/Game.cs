@@ -14,7 +14,6 @@ using System.Threading;
 using System.ComponentModel;
 using System.Globalization;
 using System.Media;
-using Silk.NET.Core;
 using System.Timers;
 using System.Diagnostics;
 using System.Security.Policy;
@@ -281,11 +280,38 @@ namespace OpenTk26_3
             }
 
 
+            //barycentric garbage from wiki
+            float x = 0.1f * Drive.Kart.centre.x + 127.5f;
+            float y = 0.1f * Drive.Kart.centre.z + 127.5f;
+            float x1 = X;
+            float y1 = Z;
+
+            float x2 = x1 + 1;
+            float y2 = y1;
+
+            float x3 = x1;
+            float y3 = y1 + 1;
+
+            float DET = (x1 - x3) * (y2 - y3) - (y1 - y3) * (x2 - x3);
+
+            float bar1 = ((y2 - y3) * (x - x3) + (x3 - x2) * (y - y3)) / DET;
+
+            float bar2 = ((y3 - y1) * (x - x3) + (x1 - x3) * (y - y3)) / DET;
+
+            float bar3 = 1 - (bar1 + bar2);
+
+            Console.WriteLine(bar1 + " " + bar2 + " " + bar3);
+
+            TERRY = bar1 * Shape.Models[0].verts[X * 256 + Z].pos.y + bar2 * Shape.Models[0].verts[(X + 1) * 256 + Z].pos.y + bar3 * Shape.Models[0].verts[X * 256 + Z + 1].pos.y;
+
             //float TERRY = Shape.Models[0].verts[X * 256 + Z].pos.y;
 
-            if (Drive.Kart.centre.y < TERRY + 1f)
+
+            Drive.YY();
+
+            if (Drive.Kart.centre.y < TERRY + Drive.Y/2f)
             {
-                Drive.Kart.centre.y = TERRY + 1f;
+                Drive.Kart.centre.y = TERRY + (Drive.Y/2f);
             }
             else Drive.Kart.centre.y -= 9.81f * 0.01f;
         }

@@ -209,3 +209,40 @@ H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\obj\Debug\Ope
 H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.csproj.CopyComplete
 H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.exe
 H:\coding\!!! projects\vroom_vroom_collision\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.pdb
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.csproj.AssemblyReference.cache
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.csproj.SuggestedBindingRedirects.cache
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.csproj.CoreCompileInputs.cache
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.exe
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.pdb
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTk26,3.exe.config
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTk26,3.exe
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTk26,3.pdb
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Bcl.HashCode.dll
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTK.dll
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\bin\Debug\System.Buffers.dll
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\bin\Debug\System.Memory.dll
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\bin\Debug\System.Numerics.Vectors.dll
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\bin\Debug\System.Text.Encodings.Web.dll
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\bin\Debug\System.Text.Json.dll
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\bin\Debug\System.ValueTuple.dll
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\bin\Debug\Ultz.Bcl.Half.dll
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Bcl.HashCode.xml
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTK.pdb
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\bin\Debug\OpenTK.xml
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\bin\Debug\System.Buffers.xml
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\bin\Debug\System.Memory.xml
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\bin\Debug\System.Numerics.Vectors.xml
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\bin\Debug\System.Text.Encodings.Web.xml
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\bin\Debug\System.Text.Json.xml
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\bin\Debug\System.ValueTuple.xml
+H:\NEA-testing-repo\OpenTk26,3\OpenTk26,3\obj\Debug\OpenTk26,3.csproj.CopyComplete
