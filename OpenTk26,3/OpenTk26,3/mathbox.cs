@@ -334,13 +334,15 @@ namespace OpenTk26_3
         public MY_vector3 forward;
         public float aspect;
         public float zooooooom;
+        public float View_distance;
         public camera(float x, float y, float z)
         {
             this.pos = new MY_vector3 (x, y, z);
             this.direction = new MY_vector3(0, 0, 0); 
-            this.zooooooom = (float)(0.0174533 * 60);
+            this.zooooooom = (float)(0.0174533 * 90);
             forward = new MY_vector3(0, 0, 1);
             aspect = 1.33333f;
+            View_distance = 1f;
         }
         /*public MY_Matrix3 getcam(camera A)
         {
@@ -729,16 +731,16 @@ namespace OpenTk26_3
                         terra.verts[i * 256 + j].color = Color.Violet;
                     }*/
 
-                    Color top = Color.Lime;
-                    Color bottom = Color.Red;
+                    Color top = Color.Blue;
+                    Color bottom = Color.Tan;
 
 
-                    //var rAverage = top.R + (int)((bottom.R - top.R) *heights[i,j]);
-                    //var gAverage = top.G + (int)((bottom.G - top.G) *heights[i,j]);
-                    //var bAverage = top.B + (int)((bottom.B - top.B) *heights[i,j]);
+                    var rAverage = top.R + (int)((bottom.R - top.R) *heights[i,j]);
+                    var gAverage = top.G + (int)((bottom.G - top.G) *heights[i,j]);
+                    var bAverage = top.B + (int)((bottom.B - top.B) *heights[i,j]);
 
-                    //terra.verts[i*256+j].color = Color.FromArgb(255, rAverage, gAverage, bAverage);
-                    terra.verts[i*256+j].color = Color.FromArgb(255, colss.R + Game.rnd.Next(0,20), colss.G - Game.rnd.Next(0,30), colss.B + Game.rnd.Next(0,20));
+                    terra.verts[i*256+j].color = Color.FromArgb(255, Math.Abs(rAverage-20+Game.rnd.Next(0,20)), Math.Abs(gAverage-20+Game.rnd.Next(0,20)), Math.Abs(bAverage-20+Game.rnd.Next(0,20)));
+                    //terra.verts[i*256+j].color = Color.FromArgb(255, colss.R + Game.rnd.Next(0,20), colss.G - Game.rnd.Next(0,30), colss.B + Game.rnd.Next(0,20));
                     //var gAverage = gMin + (int)((gMax - gMin) * i / size);
                     //var bAverage = bMin + (int)((bMax - bMin) * i / size);
                     //terra.verts[i * 256 + j].color = Color.FromArgb(255, (int)(150 * heights[i, j])+55, (int)(200 * (1 - heights[i, j]))+55, 50);

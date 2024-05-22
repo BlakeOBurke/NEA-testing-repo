@@ -114,7 +114,7 @@ namespace OpenTk26_3
                 //MY_vector3 playerPoint = player.camforward();
                 //MY_vector3 playerLight = new MY_vector3(playerPoint.x + player.pos.x, playerPoint.y + player.pos.y, playerPoint.z + player.pos.z);
 
-                float brightness = MY_vector3.dot(normal, /*new MY_vector3(0,0, -1)*/ player.forward.normalise())/(normal.magnitude());
+                float brightness = MY_vector3.dot(normal, /*new MY_vector3(0,0, -1)*/player.camforward().normalise())/(normal.magnitude());
                 brightness = (float)Math.Cos(brightness);
                 //float brightness = MY_vector3.dot(normal, new MY_vector3(0,0, -1))/normal.magnitude();
 

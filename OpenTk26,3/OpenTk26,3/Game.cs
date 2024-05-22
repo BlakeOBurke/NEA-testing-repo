@@ -243,7 +243,21 @@ namespace OpenTk26_3
             }
         }
 
-        public void collide(Car Drive)
+        public MY_vector3 Barry(float x, float y, float x1, float y1, float x2, float y2, float x3, float y3)
+        {
+
+
+            float DET = (x1 - x3) * (y2 - y3) - (y1 - y3) * (x2 - x3);
+
+            float bar1 = ((y2 - y3) * (x - x3) + (x3 - x2) * (y - y3)) / DET;
+
+            float bar2 = ((y3 - y1) * (x - x3) + (x1 - x3) * (y - y3)) / DET;
+
+            float bar3 = 1 - (bar1 + bar2);
+
+            return new MY_vector3(bar1, bar2, bar3);
+        }
+        public bool collide(Car Drive)
         {
             int X = (int)Math.Floor(0.1f*Drive.Kart.centre.x + 127.5f);//bottom left
             int Z = (int)Math.Floor(0.1f* Drive.Kart.centre.z + 127.5f);
@@ -263,46 +277,45 @@ namespace OpenTk26_3
             float disZ2 = Drive.Kart.centre.z + 127.5f - Zc;
             float b = (float)Math.Sqrt(disX2 * disX2 + disZ2 * disZ2);
             float TERRY;
+            MY_vector3 bar;
             try
             {
-                if (a > b)
+                float x = 0.1f * Drive.Kart.centre.x + 127.5f;
+                float y = 0.1f * Drive.Kart.centre.z + 127.5f;
+                float x1 = X;
+                float y1 = Z;
+
+                float x2 = x1 + 1;
+                float y2 = y1;
+
+                float x3 = x1;
+                float y3 = y1 + 1;
+
+                if (b < a)
                 {// top right
-                    TERRY = (Shape.Models[0].verts[X * 256 + Z].pos.y + Shape.Models[0].verts[(X + 1) * 256 + Z].pos.y + Shape.Models[0].verts[X * 256 + (Z + 1)].pos.y) / 3f;
+                    //TERRY = (Shape.Models[0].verts[X * 256 + Z].pos.y + Shape.Models[0].verts[(X + 1) * 256 + Z].pos.y + Shape.Models[0].verts[X * 256 + (Z + 1)].pos.y) / 3f;
+                    bar = Barry(x, y, x1, y1, x2, y2, x3, y3);
                 }
                 else
                 {// bottom left
-                    TERRY = (Shape.Models[0].verts[Xc * 256 + Zc].pos.y + Shape.Models[0].verts[(X + 1) * 256 + Z].pos.y + Shape.Models[0].verts[X * 256 + (Z + 1)].pos.y) / 3f;
+                 //TERRY = (Shape.Models[0].verts[Xc * 256 + Zc].pos.y + Shape.Models[0].verts[(X + 1) * 256 + Z].pos.y + Shape.Models[0].verts[X * 256 + (Z + 1)].pos.y) / 3f;
+
+                    bar = Barry(x, y, x1 + 1, y1 + 1, x2, y2, x3, y3);
                 }
             }
             catch (Exception ex)
             {
-                TERRY = Shape.Models[0].verts[X * 256 + Z].pos.y;
+                //TERRY = Shape.Models[0].verts[X * 256 + Z].pos.y;
+                bar = Barry(0, 0, 0, 0, 1, 0, 1, 0);
             }
 
 
             //barycentric garbage from wiki
-            float x = 0.1f * Drive.Kart.centre.x + 127.5f;
-            float y = 0.1f * Drive.Kart.centre.z + 127.5f;
-            float x1 = X;
-            float y1 = Z;
 
-            float x2 = x1 + 1;
-            float y2 = y1;
 
-            float x3 = x1;
-            float y3 = y1 + 1;
+            //MY_vector3 
 
-            float DET = (x1 - x3) * (y2 - y3) - (y1 - y3) * (x2 - x3);
-
-            float bar1 = ((y2 - y3) * (x - x3) + (x3 - x2) * (y - y3)) / DET;
-
-            float bar2 = ((y3 - y1) * (x - x3) + (x1 - x3) * (y - y3)) / DET;
-
-            float bar3 = 1 - (bar1 + bar2);
-
-            Console.WriteLine(bar1 + " " + bar2 + " " + bar3);
-
-            TERRY = bar1 * Shape.Models[0].verts[X * 256 + Z].pos.y + bar2 * Shape.Models[0].verts[(X + 1) * 256 + Z].pos.y + bar3 * Shape.Models[0].verts[X * 256 + Z + 1].pos.y;
+            TERRY = bar.x * Shape.Models[0].verts[X * 256 + Z].pos.y + bar.y * Shape.Models[0].verts[(X + 1) * 256 + Z].pos.y + bar.z * Shape.Models[0].verts[X * 256 + Z + 1].pos.y;
 
             //float TERRY = Shape.Models[0].verts[X * 256 + Z].pos.y;
 
@@ -312,8 +325,10 @@ namespace OpenTk26_3
             if (Drive.Kart.centre.y < TERRY + Drive.Y/2f)
             {
                 Drive.Kart.centre.y = TERRY + (Drive.Y/2f);
+                return true;
             }
-            else Drive.Kart.centre.y -= 9.81f * 0.01f;
+            return false;
+            //else Drive.Kart.centre.y -= 9.81f * 0.01f;
         }
         protected override void OnUpdateFrame(FrameEventArgs e)
         {
@@ -349,7 +364,6 @@ namespace OpenTk26_3
                         Vroooom.velocity = Vroooom.velocity.Times(0.05f);
                     }
                 }
-
                 if (input.IsKeyDown(Key.D))
                 {
                     if (Vroooom.velocity.magnitude() > 0.2f)
@@ -369,11 +383,11 @@ namespace OpenTk26_3
                 {
                     Vroooom.velocity = Vroooom.velocity.Times(1 / Vroooom.velocity.magnitude());
                 }
-                if (Vroooom.acc.magnitude() > 1)
+                if (Vroooom.acc.magnitude() > 0.5f)
                 {
                     Vroooom.acc = Vroooom.acc.Times(1 / Vroooom.acc.magnitude());
                 }
-
+                //Vroooom.acc.
 
 
                 Vroooom.velocity = Vroooom.velocity.sum(Vroooom.acc);
@@ -386,7 +400,7 @@ namespace OpenTk26_3
 
                 Console.WriteLine((Vroooom.BL().x - Vroooom.TR().x).ToString() + " " + (Vroooom.BL().y - Vroooom.TR().y).ToString() + " " + (Vroooom.BL().z - Vroooom.TR().z).ToString());
 
-                Program.player.pos = Vroooom.Kart.centre.sum(new MY_vector3(-Program.player.camforward().x * 0.6f, -Program.player.camforward().y * 0.5f + 0.1f, -Program.player.camforward().z * 0.66f));
+                Program.player.pos = Vroooom.Kart.centre.sum(new MY_vector3(-Program.player.camforward().x * Program.player.View_distance, -Program.player.camforward().y * Program.player.View_distance + 0.1f, -Program.player.camforward().z * Program.player.View_distance));
 
 
             }
@@ -428,7 +442,7 @@ namespace OpenTk26_3
                 Shape.Models.Last().mooova(new MY_vector3((rnd.Next(0, 4000) - 2000) * .5f, (rnd.Next(10, 500)) * .5f, (rnd.Next(0, 4000) - 2000) * .5f), new MY_vector3(0, 0, 0));*/
 
                 
-                Shape.Models.Add(new Shape(infromFile("low-poly-pikachu.ast")/*,new MY_vector3(Game.rnd.Next(50, 255), Game.rnd.Next(50, 255), Game.rnd.Next(50, 255))*/)); 
+                Shape.Models.Add(new Shape(infromFile("cube.obj")/*,new MY_vector3(Game.rnd.Next(50, 255), Game.rnd.Next(50, 255), Game.rnd.Next(50, 255))*/)); 
                 Shape.Models.Last().scala(new MY_vector3(.5f, .5f, .5f));
                 Shape.Models.Last().mooova(new MY_vector3((rnd.Next(0, 1000) - 500) * .5f, (rnd.Next(50, 500)) * .5f, (rnd.Next(0, 1000) -  500) * .5f), new MY_vector3((float)-Math.PI/2, 0, 0));
                 
@@ -448,11 +462,13 @@ namespace OpenTk26_3
             }*/
             if (input.IsKeyDown(Key.T))
             {
-                Program.player.zooooooom -= 0.00174533f*4;
+                //Program.player.zooooooom -= 0.00174533f*4;
+                Program.player.View_distance += 0.01f;
             }
             if (input.IsKeyDown(Key.G))
             {
-                Program.player.zooooooom += 0.00174533f*4;
+                //Program.player.zooooooom += 0.00174533f*4;
+                Program.player.View_distance -= 0.01f;
             }
             if (input.IsKeyDown(Key.R))
             {
@@ -579,7 +595,6 @@ namespace OpenTk26_3
                 vertices = a[i].GetFloat();
                 indices = a[i].triangle;
 
-                //Program.doLight(ref vertices, indices);
                 //indices = Program.getinds();
 
                 //Program.doLight(ref vertices,indices);
@@ -610,6 +625,7 @@ namespace OpenTk26_3
 
 
 
+                //Program.doLight(ref vertices, indices);
 
 
                 GL.BindVertexArray(VertexArrayObject);
